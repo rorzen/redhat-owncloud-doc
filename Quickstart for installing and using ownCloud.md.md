@@ -6,10 +6,10 @@ This document covers the information about the following topics:
 * Prerequisites for installing ownCloud
 * How to download and install ownCloud
 * How to configure ownCloud
-* How to add a user accounts to ownCloud server
+* How to add a user account to the ownCloud server
 * How to connect to the ownCloud server using a desktop or mobile client
 
-The following descriptions focus on the Ubuntu 18.04 server and is intended for use by professional administrator only.
+The following descriptions focus on the Ubuntu 18.04 server and are intended for use by professional administrator only.
 
 
 
